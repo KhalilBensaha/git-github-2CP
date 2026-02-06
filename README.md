@@ -115,13 +115,9 @@ node_modules/
 .DS_Store
 *.log
 ```
-
 ## 12) Quick Checklist Before Submitting
 - [ ] Code runs on a clean machine.
 - [ ] No secrets in repo.
 - [ ] README describes how to run.
 - [ ] Each feature has commits.
 - [ ] `main` is clean and stable.
-
----
-If you want, I can tailor this guide to your project language (web, Java, C, Python, etc.) or add a more detailed GitHub workflow diagram.
